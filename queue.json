@@ -137,7 +137,7 @@
   "posted": true,
   "buffer_post_ids": {
    "instagram": "6ac84b2b04f06b2e8f75656d",
-   "pinterest": null,
+   "pinterest": "6aca45eef91f772d45967c51",
    "tiktok": "6ac84b30987e694c3c3afbf9",
    "facebook_legacy": "6ac84b2e7d9f9f33011fe4de (sent before FB channel was removed)"
   },
@@ -148,7 +148,7 @@
    "link": "https://wa.me/8619901529320",
    "board": "疗愈 (1061512643359051642)"
   },
-  "pinterest_pending": "Buffer rejected: Pinterest daily limit (5) reached on 2026-10-10; not yet pinned"
+  "pinterest_scheduled_at": "2026-10-11T12:00:00+08:00"
  },
  {
   "id": "q10-golden-iceland-spar-sphere",
@@ -266,12 +266,28 @@
    "facebook": "Raw super seven from Zimbabwe. 💜\nAn unpolished natural point with deep purple and smoky tones. No dye, no resin.\nChat with us on WhatsApp: https://wa.me/8619901529320\n#superseven #rawcrystals #crystals",
    "tiktok": "Raw super seven from Zimbabwe 💜 Unpolished, no dye, no resin, purple and smoky in one point.\nRaw collectors, what's your favorite piece? 👇\n#crystaltok #superseven #rawcrystals #crystals #crystalcollection"
   },
-  "posted": false,
+  "posted": true,
   "x_used": "2026-10-10",
   "v2": {
-   "image_url": "https://cdn.jsdelivr.net/gh/elveskiss/elveskiss-media@main/posts/v2/q14-raw-super-seven.jpg",
+   "image_url": "https://raw.githubusercontent.com/elveskiss/elveskiss-media/main/posts/v2/q14-raw-super-seven.jpg",
    "video_url": "https://cdn.jsdelivr.net/gh/elveskiss/elveskiss-media@main/posts/v2/q14-raw-super-seven.mp4",
-   "real_footage": "天猫视频2/6月23日.mp4"
+   "real_footage": "天猫视频2/6月23日.mp4",
+   "captions": {
+    "instagram": "Raw purple that holds the light. 💜\nRaw super seven from Zimbabwe, left unpolished. Deep purple and smoky tones in one natural point, just as it was found. No dye, no resin.\nIn crystal tradition, stones like this are often kept as intention pieces. Cleanse it, hold it for a breath, and set it where you can see it.\nMessage us on WhatsApp 👉 https://wa.me/8619901529320\nFor ritual, beauty and mindful moments.\n#superseven #rawcrystals #amethyst #crystalritual #crystalhealing #elveskiss",
+    "tiktok": "Raw purple that holds the light 💜 Super seven from Zimbabwe, unpolished, no dye, no resin. Raw collectors, what's your favorite piece? 👇\n#crystaltok #crystalhealing #crystals #superseven #elveskiss"
+   }
+  },
+  "due_at": "2026-10-12T08:15:00+08:00",
+  "buffer_post_ids": {
+   "instagram": "6aca45e7bba9419ccb049479",
+   "tiktok": "6aca45e9bba9419ccb0494ee",
+   "pinterest": "6aca45ebbba9419ccb04956f"
+  },
+  "pinterest": {
+   "title": "Raw Super Seven Crystal | Natural Zimbabwe Super Seven Point",
+   "description": "Raw super seven from Zimbabwe, left unpolished. Deep purple and smoky tones in one natural point. No dye, no resin.\nTap the pin to message us on WhatsApp for sizes and details.\n#superseven #rawcrystals #amethyst #naturalcrystals",
+   "link": "https://wa.me/8619901529320",
+   "board": "疗愈 (1061512643359051642)"
   }
  },
  {
