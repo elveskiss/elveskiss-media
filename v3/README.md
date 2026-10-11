@@ -29,8 +29,8 @@ Audio: 48 kHz AAC, music ≈ −19 LUFS (check `ffmpeg -af ebur128`). Check ever
 - TikTok: NO contact anywhere (caption, on-screen text, subtitles, end card): no WhatsApp, wa.me, DM, message us, buy, order, PayPal, link in bio.
 - Instagram / Threads: no WhatsApp; CTA "DM us for sizes ✨" / "DM us for details ✨".
 - X: "DMs open".
-- YouTube: description links the landing page (URL pending; until then "Questions? DM us on Instagram ✨", no wa.me).
-- Pinterest: pin link → landing page (pending; currently wa.me), WhatsApp may be mentioned.
+- YouTube: description has "See it here: https://elveskiss.github.io/#<id>" + "Questions? DM us on Instagram ✨", no wa.me.
+- Pinterest: pin link = https://elveskiss.github.io/#<id> (product anchor); WhatsApp may be mentioned.
 `captions.py` asserts the TikTok/X rules.
 
 ## Hosting
@@ -48,3 +48,10 @@ Slots 08:15 and 21:15 (UTC+8). Per slot, same dueAt on every channel:
 | X | 6acaf2d6778b240e2fd144bd | `x.jpg` + X text |
 | Threads | 6acaf250778b240e2fd140e6 | `threads.jpg` + Threads text |
 Before creating, `list_posts` for that dueAt to avoid duplicates; prefer `edit_post` on an existing post (send the full assets + required metadata; edits are validated as whole posts). Record post ids in `queue.json` → `<item>.v3` / `buffer_post_ids`.
+
+## Landing page
+- URL: https://elveskiss.github.io/ (repo `elveskiss/elveskiss.github.io`, GitHub Pages, `index.html`; source in `/workspace/site`).
+- Each product has an anchor `#<id>` (e.g. `#q05`). Add a card for every new item before its pin goes out.
+- Buttons: "Message us on Instagram" → https://ig.me/m/kisselves, "Chat on WhatsApp" → https://wa.me/8619901529320. No health claims.
+- Also stored in `queue.json` → `landing_url` per item, and the global config in `config.json`.
+- Never use `#crystalhealing` (no-claims rule).
