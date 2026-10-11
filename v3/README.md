@@ -1,3 +1,9 @@
+> **MANDATORY: every caption follows [WRITING_SPEC.md](WRITING_SPEC.md) (official writing spec v1).**
+> Copy lives in `copy_spec.py` (facts only from the product pages, see `spec.py` FACTS). `spec.py check()` is the automated CHECK.
+> Build every post with `python3 post_payload.py <qid> <platform> <dueAt> <media_url> [--carousel u1,u2..]`:
+> if any check fails it returns a payload with `saveToDraft: true` (Buffer draft, NOT the queue) and exit code 1.
+> `python3 captions.py` must end with `CHECK: all pass`.
+
 # v3 platform-native recipe (Elves Kiss)
 
 One item → 6 platform variants. Output in `/workspace/elveskiss/v3/<id>/`, pushed to `elveskiss/elveskiss-media` under `posts/v3/<id>/`.
@@ -55,3 +61,17 @@ Before creating, `list_posts` for that dueAt to avoid duplicates; prefer `edit_p
 - Buttons: "Message us on Instagram" → https://ig.me/m/kisselves, "Chat on WhatsApp" → https://wa.me/8619901529320. No health claims.
 - Also stored in `queue.json` → `landing_url` per item, and the global config in `config.json`.
 - Never use `#crystalhealing` (no-claims rule).
+
+
+## Writing spec (summary)
+| Platform | Ending | Hashtags | Notes |
+|---|---|---|---|
+| TikTok | `Follow for the next drop 💎` | 3–5 | 1–2 sentences, no contact/link/DM/buy/order of any kind (caption, on-screen, end card) |
+| Instagram | `DM us to order 💌` | 5–8 at the end | hook + 3–5 short lines |
+| Threads | `DM us on IG` | 0–1 | 1–3 casual sentences |
+| X | `DMs open` | 0–2 | under 240 chars |
+| Pinterest | description ends `Tap to see more` | 3–5 | title ≤100 chars, search-style; 2–3 sentences; link = `https://elveskiss.github.io/#<qid>` |
+| YouTube | `Subscribe for daily crystals` | 3 | video only; search-phrase title; 2-line description with landing link |
+
+Banned anywhere (incl. hashtags): heal, healing, cure, treat, anxiety, depression, sleep, pain, medical, guaranteed, luck, wealth, money, manifest money, protect you from.
+Stone name / size exactly as in the product page; no origin country unless the page states it; treated stones named honestly (aqua aura = coated quartz); no made-up statistics.
