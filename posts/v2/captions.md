@@ -216,3 +216,157 @@ For ritual, beauty and mindful moments.
 ### TikTok
 Pale sky blue, straight from Madagascar 🩵 Raw celestite geode, no dye, no resin. Would you keep it by your bed? 👇
 #crystaltok #crystalhealing #crystals #celestite #elveskiss
+
+---
+
+# X / Threads / YouTube Shorts (2026-10-11)
+
+## q10
+
+### X
+Factory diary, Donghai ✨ Golden Iceland spar today. Set it on a line of text and the words double: natural double refraction. Ice cracks throw little rainbows in the light. 3–6 cm spheres, cleansed at our courtyard spring.
+Wholesale & custom DMs open
+
+### Threads
+Ever set a crystal on a page and watched the words double? ✨ That's golden Iceland spar, a natural calcite. The ice cracks inside throw tiny rainbows when the light hits. We cleanse each sphere at the spring in our courtyard before it ships. Sizes 3–6 cm.
+Details on WhatsApp: https://wa.me/8619901529320
+What would you set it on first?
+
+### YouTube
+Title: This crystal makes words appear twice ✨ #Shorts
+Golden Iceland spar is a natural calcite with double refraction: set it on text and the words appear double. Hand-picked, cleansed at our courtyard spring in Donghai. Sizes 3–6 cm.
+In crystal tradition, calcite is associated with clarity.
+Message us on WhatsApp: https://wa.me/8619901529320
+#icelandspar #calcite #crystals #crystalhealing #crystaltok #elveskiss
+
+## q04
+
+### X
+Factory diary, Donghai 💚 Raw Egyptian peridot strung today, natural broken edges, no dye, no resin. Filmed in sunlight, no filter. That green is all stone.
+Wholesale & custom DMs open
+
+### Threads
+That green is real, no filter 💚 Raw Egyptian peridot, about 0.8 × 1.5 cm per stone, natural broken edges, no dye, no resin. In crystal tradition peridot is linked with light and fresh starts, so we like it as a morning-intention piece.
+Sizes on WhatsApp: https://wa.me/8619901529320
+Would you wear raw or polished?
+
+### YouTube
+Title: Is this green real? Raw peridot in sunlight 💚 #Shorts
+Raw Egyptian peridot bracelet, natural broken edges, no dye, no resin. Filmed in sunlight, as is. About 0.8 × 1.5 cm per stone.
+In crystal tradition, peridot is associated with light and fresh starts.
+Message us on WhatsApp: https://wa.me/8619901529320
+#peridot #rawcrystals #crystalbracelet #crystalhealing #crystaltok #elveskiss
+
+## q14
+
+### X
+Factory diary, Donghai 💜 Raw super seven in the light this morning. Deep purple and smoky tones, left unpolished: no dye, no resin. 22 years in crystals and raw pieces like this still stop us.
+Wholesale & custom DMs open
+
+### Threads
+Light through raw stone 💜 This is super seven, left unpolished: deep purple and smoky tones exactly as it formed. No dye, no resin. In crystal tradition, pieces like this are kept as intention stones: cleanse, hold it for a breath, set it where you'll see it.
+Details on WhatsApp: https://wa.me/8619901529320
+Raw or polished, which do you collect?
+
+### YouTube
+Title: Light through raw super seven 💜 #Shorts
+Raw super seven, left unpolished. Deep purple and smoky tones, no dye, no resin.
+In crystal tradition, stones like this are kept as intention pieces.
+Message us on WhatsApp: https://wa.me/8619901529320
+#superseven #rawcrystals #amethyst #crystalhealing #crystaltok #elveskiss
+
+## q03
+
+### X
+Factory diary, Donghai 🍬 Aquamarine + morganite candy beads, two kinds of natural beryl. No resin, no acid wash, no dye. Every strand ships with a lab certificate.
+Wholesale & custom DMs open
+
+### Threads
+Candy colors, all natural 🍬 Aquamarine and morganite are both beryl: soft blues and greens next to peach-pinks. No resin, no acid wash, no dye, and each strand comes with a lab certificate. Tradition pairs aquamarine with calm and morganite with an open heart.
+Details on WhatsApp: https://wa.me/8619901529320
+Blue side or pink side?
+
+### YouTube
+Title: Candy colors, 100% natural crystal 🍬 #Shorts
+Aquamarine and morganite bracelet, two kinds of natural beryl. No resin, no acid wash, no dye. Each strand comes with a lab certificate and is one of a kind.
+In crystal tradition, aquamarine is associated with calm and morganite with an open, gentle heart.
+Message us on WhatsApp: https://wa.me/8619901529320
+#aquamarine #morganite #crystalbracelet #crystalhealing #crystaltok #elveskiss
+
+## q09
+
+### X
+Factory diary, Donghai 💜 Brazilian dream amethyst spheres, hand-polished. Every band and inclusion is natural. 6–30 cm, stand included, certificate on request.
+Wholesale & custom DMs open
+
+### Threads
+Is this real amethyst? Yes 💜 Natural Brazilian dream amethyst, hand-polished, with purple bands and inclusions you only see up close. Sizes 6–30 cm, stand included. We cleanse each sphere at the spring in our courtyard before it ships.
+Sizes on WhatsApp: https://wa.me/8619901529320
+Real or fake, what was your first guess?
+
+### YouTube
+Title: Is this real amethyst? 💜 #Shorts
+Natural Brazilian dream amethyst sphere, hand-polished. Every band and inclusion is natural. Sizes 6–30 cm, stand included, certificate on request.
+In crystal healing tradition, amethyst is associated with calm.
+Message us on WhatsApp: https://wa.me/8619901529320
+#amethyst #crystalsphere #crystals #crystalhealing #crystaltok #elveskiss
+
+## q05
+
+### X
+Factory diary, Donghai 🍷 Raw Brazilian garnet strands rinsed in spring water today. Natural fracture faces, no dye, no resin. Wine-red and rough, the way we like it.
+Wholesale & custom DMs open
+
+### Threads
+Wine-red, rough and real 🍷 Raw Brazilian garnet chips with their natural fracture faces left untouched, no dye, no resin. We rinse every strand in the spring water at our courtyard before it ships. Tradition links garnet with energy and devotion.
+Sizes on WhatsApp: https://wa.me/8619901529320
+Everyday piece or special-occasion piece?
+
+### YouTube
+Title: Raw garnet rinsed in spring water 🍷 #Shorts
+Raw Brazilian garnet bracelet, about 0.8 × 1.5 cm chips, natural fracture faces, no dye, no resin. Rinsed in spring water before it ships.
+In crystal tradition, garnet is associated with energy and devotion.
+Message us on WhatsApp: https://wa.me/8619901529320
+#garnet #rawcrystals #crystalbracelet #crystalhealing #crystaltok #elveskiss
+
+## q08
+
+### X
+Factory diary, Donghai ✨ 12-facet clear quartz points with brass fittings, about 1.5 × 6 cm. Hung one by the window and the room filled with light.
+Wholesale & custom DMs open
+
+### Threads
+12 facets, watch it catch light ✨ A clear quartz point with brass fittings, about 1.5 × 6 cm. Wear it as a pendant, hang it by a window, or use it as a pendulum the traditional way. Clear quartz is linked with clarity and focus in crystal tradition.
+Details on WhatsApp: https://wa.me/8619901529320
+Pendant or pendulum, which would you use it for?
+
+### YouTube
+Title: 12 facets of clear quartz catching light ✨ #Shorts
+12-facet clear quartz point with brass fittings, about 1.5 × 6 cm. Wear it as a pendant or hang it by a window.
+In crystal tradition, clear quartz is associated with clarity and focus.
+Message us on WhatsApp: https://wa.me/8619901529320
+#clearquartz #crystalpendulum #crystals #crystalhealing #crystaltok #elveskiss
+
+## q09 Pinterest
+Title: Dream Amethyst Sphere | Natural Brazilian Amethyst Crystal Ball
+Natural Brazilian dream amethyst sphere, hand-polished. 💜
+Every band and inclusion is natural. 6–30 cm, stand included.
+Traditionally associated with calm.
+Tap the pin to message us on WhatsApp for sizes and details.
+#amethyst #crystalsphere #crystaldecor #naturalcrystals
+
+## q05 Pinterest
+Title: Raw Garnet Bracelet | Natural Brazilian Garnet Crystal Bracelet
+Raw Brazilian garnet bracelet. 🍷
+Natural fracture faces, no dye, no resin. Rinsed in spring water before it ships.
+Traditionally associated with energy and devotion.
+Tap the pin to message us on WhatsApp for sizes and details.
+#garnet #rawcrystals #crystalbracelet #naturalcrystals
+
+## q08 Pinterest
+Title: Vogel Quartz Pendant | 12 Facet Clear Quartz Crystal Pendulum
+12-facet clear quartz point with brass fittings. ✨
+About 1.5 × 6 cm. Wear it as a pendant or hang it by a window.
+Traditionally associated with clarity and focus.
+Tap the pin to message us on WhatsApp for sizes and details.
+#clearquartz #crystalpendant #crystalpendulum #naturalcrystals
