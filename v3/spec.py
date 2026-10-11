@@ -19,6 +19,8 @@ BANNED=r"\b(heal\w*|cure[sd]?|curing|treat|treats|anxiety|depression|sleep\w*|pa
 CONTACT=r"whatsapp|wa\.me|wechat|paypal|@\w+\.\w|https?://|www\.|\bdms?\b|message us|link in bio|\bbuy\b|\border\b|phone|email"
 COUNTRIES=r"\b(Brazil\w*|Egypt\w*|Zimbabwe\w*|Madagascar\w*|Uruguay\w*|Mexic\w*|India\w*|Pakistan\w*|Afghan\w*|Russia\w*|Namibia\w*|Morocc\w*)\b"
 WRONG_NAMES={'q02':['rose quartz'],'q07':['aquamarine 925'],'q08':['vogel-style']}
+# product-specific claims the boss forbade (2026-10-11): never return for these items
+FORBIDDEN_CLAIMS={'q03':[r'no resin',r'acid[- ]wash',r'no dye',r'\ball[- ]natural\b',r'treat\w*',r'certificat\w*',r'\blab\b']}
 STATS=r"\d+\s?%"
 def tags(t): return re.findall(r"(?<![/\w])#\w+",t)
 def check(platform,text,item,title=None,is_video=True,url=None):
@@ -28,6 +30,8 @@ def check(platform,text,item,title=None,is_video=True,url=None):
     if b: f.append('banned:'+','.join(sorted(set(x.lower() for x in b))))
     if re.search(STATS,full): f.append('statistic')
     code,name,form,size,origin=FACTS[item]
+    for rx in FORBIDDEN_CLAIMS.get(item,[]):
+        if re.search(rx,full,re.I): f.append('forbidden claim:'+rx)
     for w in WRONG_NAMES.get(item,[]):
         if w in full.lower(): f.append('name:'+w)
     for c in re.findall(COUNTRIES,full):
