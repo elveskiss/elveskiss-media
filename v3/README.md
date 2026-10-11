@@ -73,5 +73,5 @@ Before creating, `list_posts` for that dueAt to avoid duplicates; prefer `edit_p
 | Pinterest | description ends `Tap to see more` | 3–5 | title ≤100 chars, search-style; 2–3 sentences; link = `https://elveskiss.github.io/#<qid>` |
 | YouTube | `Subscribe for daily crystals` | 3 | video only; search-phrase title; 2-line description with landing link |
 
-Banned anywhere (incl. hashtags): heal, healing, cure, treat, anxiety, depression, sleep, pain, medical, guaranteed, luck, wealth, money, manifest money, protect you from.
+Banned anywhere (incl. hashtags): certificate, certified (and lab-certificate/GIA-style claims, any product), heal, healing, cure, treat, anxiety, depression, sleep, pain, medical, guaranteed, luck, wealth, money, manifest money, protect you from.
 Stone name / size exactly as in the product page; no origin country unless the page states it; treated stones named honestly (aqua aura = coated quartz); no made-up statistics.

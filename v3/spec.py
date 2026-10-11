@@ -15,12 +15,13 @@ FACTS={
  'q10':('Z03010','golden Iceland spar (calcite)','sphere','3–6 cm',None),
  'q14':('Z05007','raw super seven','raw stone',None,None),
 }
-BANNED=r"\b(heal\w*|cure[sd]?|curing|treat|treats|anxiety|depression|sleep\w*|pain\w*|medical\w*|guarantee\w*|luck\w*|wealth\w*|money|manifest money|protect you from)\b"
+BANNED=r"\b(certificat\w*|certified|heal\w*|cure[sd]?|curing|treat|treats|anxiety|depression|sleep\w*|pain\w*|medical\w*|guarantee\w*|luck\w*|wealth\w*|money|manifest money|protect you from)\b"
 CONTACT=r"whatsapp|wa\.me|wechat|paypal|@\w+\.\w|https?://|www\.|\bdms?\b|message us|link in bio|\bbuy\b|\border\b|phone|email"
 COUNTRIES=r"\b(Brazil\w*|Egypt\w*|Zimbabwe\w*|Madagascar\w*|Uruguay\w*|Mexic\w*|India\w*|Pakistan\w*|Afghan\w*|Russia\w*|Namibia\w*|Morocc\w*)\b"
 WRONG_NAMES={'q02':['rose quartz'],'q07':['aquamarine 925'],'q08':['vogel-style']}
 # product-specific claims the boss forbade (2026-10-11): never return for these items
 FORBIDDEN_CLAIMS={'q03':[r'no resin',r'acid[- ]wash',r'no dye',r'\ball[- ]natural\b',r'treat\w*',r'certificat\w*',r'\blab\b']}
+CERT_RX=r'\bGIA\b|lab[- ]?(tested|graded|report)|gemolog\w* (report|lab)'
 STATS=r"\d+\s?%"
 def tags(t): return re.findall(r"(?<![/\w])#\w+",t)
 def check(platform,text,item,title=None,is_video=True,url=None):
@@ -28,6 +29,7 @@ def check(platform,text,item,title=None,is_video=True,url=None):
     f=[]; full=(title or '')+'\n'+text
     b=re.findall(BANNED,full,re.I)
     if b: f.append('banned:'+','.join(sorted(set(x.lower() for x in b))))
+    if re.search(CERT_RX,full): f.append('certificate-style claim')
     if re.search(STATS,full): f.append('statistic')
     code,name,form,size,origin=FACTS[item]
     for rx in FORBIDDEN_CLAIMS.get(item,[]):

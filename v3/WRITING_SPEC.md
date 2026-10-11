@@ -31,12 +31,13 @@ If stone name or size is missing, DO NOT write the post. Output `MISSING INFO: <
 If the file is a photo, skip YouTube and write `YOUTUBE: SKIP (photo)`.
 
 ## Hard rules (check every post before output)
-1. Never use: heal, healing, cure, treat, anxiety, depression, sleep, pain, medical, guaranteed, luck, wealth, money, manifest money, protect you from.
+1. Never use: certificate, certified, heal, healing, cure, treat, anxiety, depression, sleep, pain, medical, guaranteed, luck, wealth, money, manifest money, protect you from.
 2. Benefits only as tradition: "traditionally associated with…", "many people keep it for…".
 3. Never write WhatsApp, WeChat, PayPal, email, phone or any link in TikTok text.
 4. Never change the stone name or size from the input. Never add a country of origin unless given.
 5. Treated stones must be named honestly: "aqua aura" = coated quartz, not aquamarine.
 6. No made-up statistics ("80% of the world's crystals…").
+7. No certificate claims on ANY product (boss rule 2026-10-11): no "certificate", "certified", "lab certificate", "GIA" or similar, in captions, on-screen text, images or end cards.
 
 ## Self-check block (must appear at the end of every output)
 ```

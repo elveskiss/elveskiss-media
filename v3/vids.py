@@ -29,7 +29,7 @@ elif job=='q09_yt':
     segs=[(prep(A+'IMGP4900.jpg',0.42,0.5),3.2,1.2,1.35,0,0),(prep(A+'z003.jpg',0.5,0.5),3.2,1.0,1.2,0,0),(prep(A+'z003.jpg',0.5,0.45),3.0,1.5,1.8,0,0),
           (prep(A+'IMGP4900.jpg',0.3,0.4),3.0,1.8,2.1,0,0),(prep(A+'z005.jpg',0.55,0.5),3.0,1.0,1.15,0,0),(prep(A+'IMGP1307.jpg',0.3,0.5),3.2,1.0,1.15,0,0)]
     render(O+'q09/youtube.mp4',segs,[(0,2.8,'How to tell\nreal amethyst',300,FT),(2.8,5.6,'Check 1: natural purple and white banding',1450,FC),(5.6,8.4,'Dream amethyst bands formed in the stone, then hand-polished',1450,FC),
-       (8.4,11.1,'Check 2: tiny natural inclusions you only see up close',1450,FC),(11.1,13.8,'Check 3: ask for a certificate. Ours is available on request',1450,FC),(13.8,16.0,'Brazilian dream amethyst, 6 to 30 cm, stand included',1450,FC)],'dream amethyst sphere · Brazil',dur_end=2.4,xf=0.5)
+       (8.4,11.1,'Check 2: tiny natural inclusions you only see up close',1450,FC),(11.1,13.8,'Check 3: ask where it comes from. Ours is from Brazil',1450,FC),(13.8,16.0,'Brazilian dream amethyst, 6 to 30 cm, stand included',1450,FC)],'dream amethyst sphere · Brazil',dur_end=2.4,xf=0.5)
 elif job=='q05_yt':
     segs=[(prep(G+'__IMG7617.jpg',0.55,0.5),3.2,1.2,1.35,0,0),(prep(G+'__IMG7610.jpg',0.45,0.5),3.0,1.3,1.5,0,0),(prep_vid(S2+'gar.mp4',1.0,3.2,top=0.08),3.0,1.0,1.06,0,0),
           (prep_vid(S2+'gar.mp4',4.2,3.2,top=0.08),3.0,1.0,1.06,0,0),(prep_vid(S2+'gar.mp4',13.0,3.2,top=0.08),3.0,1.0,1.06,0,0),(prep(G+'_unnamed.jpg',0.5,0.6),3.2,1.0,1.15,0,0)]
