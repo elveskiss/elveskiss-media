@@ -116,4 +116,27 @@ if not ONLY or 'q02' in ONLY:
  pin(R+'IMG8624.jpg','Rock Candy Raw Crystal Bracelet | Soft Pink Jewelry Idea','natural crystal · 1–2 cm · no dye',q+'pinterest.jpg')
  plain(R+'IMG7709.jpg',q+'x.jpg',cx=.55,cy=.6,zoom=1.25)
  plain(R+'IMG8624.jpg',q+'threads.jpg')
+F11=S2+'Z03015__'; F6=S2+'Z01016__'; V6=S2+'Z01016_f'
+if not ONLY or 'q11' in ONLY:
+ q=O+'q11/'
+ cover(F11+'IMGP4147.jpg','Real fluorite or glass?','3 checks · save for later',q+'ig_carousel_1.jpg',cx=.5)
+ edu(S2+'Z03015___IMG1773.jpg',1,'Layered color','Real fluorite grows in layers, so the green deepens and fades as you turn it. It is rarely one flat shade.',q+'ig_carousel_2.jpg',cy=.62,zoom=1.7,page='2/6')
+ edu(F11+'z001.jpg',2,'Natural inner patterns','Look closely: veils, lines and feathers inside the stone. No two spheres share the same pattern.',q+'ig_carousel_3.jpg',cy=.7,zoom=1.8,page='3/6')
+ edu(F11+'002.jpg',3,'Glass looks too even','Glass copies tend to look perfectly even in color. Fluorite never quite does.',q+'ig_carousel_4.jpg',zoom=1.5,page='4/6')
+ edu(F11+'IMGP4513.jpg',0,'The details','Green fluorite sphere · layered greens · natural inner patterns · every sphere one of a kind.',q+'ig_carousel_5.jpg',cy=.75,zoom=1.3,page='5/6',tag='green fluorite sphere')
+ cta(F11+'IMGP4147.jpg',['layers · inner patterns · uneven color','green fluorite sphere'],q+'ig_carousel_6.jpg')
+ pin(F11+'IMGP4512.jpg','Green Fluorite Sphere | Window Crystal Decor Idea','natural green fluorite · crystal decor',q+'pinterest.jpg')
+ plain(F11+'z001.jpg',q+'x.jpg',cy=.72,zoom=1.5)
+ plain(F11+'IMGP4513.jpg',q+'threads.jpg',cy=.6)
+if not ONLY or 'q06' in ONLY:
+ q=O+'q06/'
+ cover(F6+'DSC09995.jpg','Clear quartz or glass?','3 checks · save for later',q+'ig_carousel_1.jpg')
+ edu(F6+'DSC09997.jpg',1,'Tiny natural inclusions','Real clear quartz usually carries small wisps and lines inside. Hold a bead to the light and look.',q+'ig_carousel_2.jpg',zoom=1.3,page='2/6')
+ edu(F6+'DSC09998.jpg',2,'Round bubbles mean glass','Perfectly round air bubbles are a sign of glass. Quartz inclusions look irregular.',q+'ig_carousel_3.jpg',zoom=1.2,page='3/6')
+ edu(V6+'28.jpg',3,'Ask what it is called','A seller who knows the stone can name it. Ours is Himalayan clear quartz, rinsed in spring water at our courtyard.',q+'ig_carousel_4.jpg',cy=.55,page='4/6')
+ edu(F6+'DSC09996.jpg',0,'The details','Himalayan clear quartz bracelet · round clear beads · easy to stack with colored crystals.',q+'ig_carousel_5.jpg',page='5/6',tag='Himalayan clear quartz')
+ cta(F6+'DSC09995.jpg',['inclusions · no round bubbles · a real name','Himalayan clear quartz bracelet'],q+'ig_carousel_6.jpg')
+ pin(F6+'DSC09994.jpg','Himalayan Clear Quartz Bracelet | Minimal Crystal Jewelry Idea','natural clear quartz · minimal jewelry',q+'pinterest.jpg',cy=.6)
+ plain(F6+'DSC09997.jpg',q+'x.jpg',zoom=1.1)
+ plain(V6+'2.jpg',q+'threads.jpg',cy=.6)
 print('ok')

@@ -13,6 +13,8 @@ FACTS={
  'q08':('Z02001','Vogel 12-facet clear quartz','pendulum pendant','1.5 × 6 cm',None),
  'q09':('Z03004','dream amethyst','sphere','6–30 cm','Brazil'),
  'q10':('Z03010','golden Iceland spar (calcite)','sphere','3–6 cm',None),
+ 'q11':('Z03015','green fluorite','sphere',None,None),  # size/origin not in product files; Zhejiang & 3/4/5 cm dropped
+ 'q06':('Z01016','Himalayan clear quartz','bracelet',None,None),  # name from product folder Z01016喜马拉雅白水晶手串; no size in files
  'q14':('Z05007','raw super seven','raw stone',None,None),
 }
 BANNED=r"\b(certificat\w*|certified|heal\w*|cure[sd]?|curing|treat|treats|anxiety|depression|sleep\w*|pain\w*|medical\w*|guarantee\w*|luck\w*|wealth\w*|money|manifest money|protect you from)\b"

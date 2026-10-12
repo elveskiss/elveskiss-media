@@ -20,4 +20,6 @@ MORE={'q08':{
  'pinterest_title':"Rock Candy Raw Crystal Bracelet | Soft Pink Crystal Jewelry Idea",
  'pinterest_description':"Raw crystal bracelet, unpolished nuggets about 1–2 cm. 🌸 No dye, no resin, every strand a little different. Traditionally associated with love and self-kindness. Tap the pin for sizes and details, or chat with us on WhatsApp.\n#pinkjewelry #crystalbracelet #rawcrystals #naturalcrystals",
  'x':"Factory diary, Donghai: raw crystal left raw. 1–2 cm nuggets, no dye, no resin, no polish. 🌸 Wholesale & custom DMs open",
- 'threads':"Soft pink on linen 🌸 Raw crystal nuggets, about 1–2 cm, left unpolished with no dye and no resin, so every strand comes out a little different.\nDM us for details ✨\nDo you like your crystals raw or polished?"}}
+ 'threads':"Soft pink on linen 🌸 Raw crystal nuggets, about 1–2 cm, left unpolished with no dye and no resin, so every strand comes out a little different.\nDM us for details ✨\nDo you like your crystals raw or polished?"},
+'q11':{'tiktok':'','tiktok_title':'Fluorite or glass?','ig_reel':'','ig_carousel':'','youtube_title':'Real Fluorite vs Glass: 3 Quick Checks #Shorts','youtube_description':'','pinterest_title':'','pinterest_description':'','x':'','threads':'Where would you put it?'},
+'q06':{'tiktok':'','tiktok_title':'Clear quartz or glass?','ig_reel':'','ig_carousel':'','youtube_title':'Clear Quartz vs Glass: How to Tell #Shorts','youtube_description':'','pinterest_title':'','pinterest_description':'','x':'','threads':'Alone or stacked?'}}

@@ -64,3 +64,31 @@ elif job=='q02_yt':
           (prep(R+'IMG9815.jpg',0.5,0.5),3.0,1.0,1.2,0,0),(prep(R+'IMG8624.jpg',0.5,0.5),3.0,1.15,1.0,0,0),(prep(R+'IMG9817.jpg',0.5,0.5),3.2,1.0,1.15,0,0)]
     render(O+'q02/youtube.mp4',segs,[(0,2.8,'Raw crystal:\nwhat to look for',300,FT),(2.8,5.6,'Unpolished nuggets keep their rough natural texture',1450,FC),(5.6,8.4,'The pink is the stone itself: no dye',1450,FC),
        (8.4,11.1,'Color shifts a little from nugget to nugget',1450,FC),(11.1,13.8,'Each nugget is about 1 to 2 cm',1450,FC),(13.8,16.0,'So no two strands come out alike',1450,FC)],'rock candy raw crystal bracelet',dur_end=2.4,xf=0.5)
+
+F11=S2+'Z03015__'; F6=S2+'Z01016__'; CV=lambda st,d:prep_vid(S2+'Z01016_v1.mp4',st,d,top=0.2)
+if job=='q11_tiktok':
+    segs=[(prep(F11+'IMGP4147.jpg',0.5,0.5),1.7,1.2,1.4,0,0),(prep(F11+'z001.jpg',0.5,0.7),1.5,1.3,1.6,0,0),(prep(S2+'Z03015___IMG1773.jpg',0.5,0.6),1.5,1.4,1.7,0,0),
+          (prep(F11+'002.jpg',0.5,0.5),1.5,1.2,1.0,0,0),(prep(F11+'IMGP4512.jpg',0.5,0.6),1.5,1.0,1.2,0,0),(prep(F11+'IMGP4513.jpg',0.5,0.7),1.5,1.0,1.15,0,0),(prep(F11+'z001.jpg',0.5,0.65),1.6,1.6,1.9,0,0)]
+    tt(segs,[(0,1.6,'Fluorite\nor glass?',300,FB),(1.6,3.1,'Look at the layers',1450,FBs),(3.1,4.6,'Natural inner patterns',1450,FBs),
+       (4.6,6.1,'Never one flat green',1450,FBs),(6.1,7.6,'Green fluorite sphere',1450,FBs),(7.6,9.7,'Real or glass?\nComment below',1380,FB)],O+'q11/tiktok.mp4','green fluorite sphere')
+elif job=='q11_reel':
+    segs=[(prep(F11+'IMGP4147.jpg',0.5,0.5),3.4,1.0,1.12,0,0),(prep(F11+'z001.jpg',0.5,0.6),3.0,1.12,1.0,0,0),(prep(F11+'IMGP4512.jpg',0.5,0.6),3.0,1.2,1.4,0,0),(prep(F11+'IMGP4513.jpg',0.5,0.7),2.8,1.05,1.2,0,0)]
+    render(O+'q11/ig_reel.mp4',segs,[(0.2,3.0,'A forest\ninside a stone',300,FT),(3.4,6.0,'Layers of green that shift as you turn it',1500,FC),(6.4,9.2,'Every sphere has its own pattern',1500,FC)],'green fluorite sphere',dur_end=2.2,xf=0.7,vf=GRADE)
+elif job=='q11_yt':
+    segs=[(prep(F11+'IMGP4147.jpg',0.5,0.5),3.2,1.2,1.35,0,0),(prep(S2+'Z03015___IMG1773.jpg',0.5,0.6),3.2,1.3,1.6,0,0),(prep(F11+'z001.jpg',0.5,0.7),3.0,1.5,1.8,0,0),
+          (prep(F11+'002.jpg',0.5,0.5),3.0,1.2,1.4,0,0),(prep(F11+'IMGP4512.jpg',0.5,0.6),3.0,1.0,1.15,0,0),(prep(F11+'IMGP4513.jpg',0.5,0.7),3.2,1.0,1.15,0,0)]
+    render(O+'q11/youtube.mp4',segs,[(0,2.8,'Real fluorite\nor glass?',300,FT),(2.8,5.6,'Check 1: layered color that deepens and fades',1450,FC),(5.6,8.4,'Check 2: natural veils and lines inside',1450,FC),
+       (8.4,11.1,'Check 3: glass looks perfectly even, fluorite does not',1450,FC),(11.1,13.8,'No two spheres share the same pattern',1450,FC),(13.8,16.0,'Green fluorite sphere',1450,FC)],'green fluorite sphere',dur_end=2.4,xf=0.5)
+elif job=='q06_tiktok':
+    segs=[(CV(2.0,1.8),1.7,1.0,1.08,0,0),(prep(F6+'DSC09997.jpg',0.5,0.5),1.5,1.2,1.4,0,0),(CV(28.0,1.6),1.5,1.0,1.06,0,0),
+          (prep(F6+'DSC09998.jpg',0.5,0.5),1.5,1.3,1.1,0,0),(CV(19.0,1.6),1.5,1.0,1.06,0,0),(prep(F6+'DSC09995.jpg',0.5,0.6),1.5,1.0,1.2,0,0),(CV(33.0,1.8),1.6,1.0,1.08,0,0)]
+    tt(segs,[(0,1.6,'Clear quartz\nor glass?',300,FB),(1.6,3.1,'Tiny natural inclusions',1450,FBs),(3.1,4.6,'Rinsed in spring water',1450,FBs),
+       (4.6,6.1,'No round bubbles',1450,FBs),(6.1,7.6,'Himalayan clear quartz',1450,FBs),(7.6,9.7,'Alone or stacked?\nTell us below',1380,FB)],O+'q06/tiktok.mp4','Himalayan clear quartz bracelet')
+elif job=='q06_reel':
+    segs=[(CV(19.0,3.5),3.4,1.0,1.06,0,0),(prep(F6+'DSC09995.jpg',0.5,0.6),3.0,1.1,1.25,0,0),(CV(28.0,3.1),3.0,1.0,1.06,0,0),(prep(F6+'DSC09997.jpg',0.5,0.5),2.8,1.15,1.0,0,0)]
+    render(O+'q06/ig_reel.mp4',segs,[(0.2,3.0,'Clear\nas water',300,FT),(3.4,6.0,'Himalayan clear quartz bracelet',1500,FC),(6.4,9.2,'Rinsed in spring water at our courtyard',1500,FC)],'Himalayan clear quartz bracelet',dur_end=2.2,xf=0.7,vf=GRADE)
+elif job=='q06_yt':
+    segs=[(CV(2.0,3.3),3.2,1.0,1.06,0,0),(prep(F6+'DSC09997.jpg',0.5,0.5),3.0,1.3,1.5,0,0),(prep(F6+'DSC09998.jpg',0.5,0.5),3.0,1.2,1.4,0,0),
+          (CV(28.0,3.2),3.0,1.0,1.06,0,0),(CV(19.0,3.2),3.0,1.0,1.06,0,0),(prep(F6+'DSC09995.jpg',0.5,0.6),3.2,1.0,1.15,0,0)]
+    render(O+'q06/youtube.mp4',segs,[(0,2.8,'Clear quartz\nor glass?',300,FT),(2.8,5.6,'Check 1: tiny natural wisps and lines inside',1450,FC),(5.6,8.4,'Check 2: perfectly round bubbles mean glass',1450,FC),
+       (8.4,11.1,'Check 3: ask what the stone is called',1450,FC),(11.1,13.8,'Ours: Himalayan clear quartz, rinsed in spring water',1450,FC),(13.8,16.0,'Easy to stack with your colored crystals',1450,FC)],'Himalayan clear quartz bracelet',dur_end=2.4,xf=0.5)
