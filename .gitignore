@@ -1,0 +1,8 @@
+# media only
+*
+!*/
+!*.mp4
+!*.jpg
+!*.jpeg
+!*.png
+!.gitignore
