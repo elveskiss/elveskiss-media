@@ -75,3 +75,13 @@ Before creating, `list_posts` for that dueAt to avoid duplicates; prefer `edit_p
 
 Banned anywhere (incl. hashtags): certificate, certified (and lab-certificate/GIA-style claims, any product), heal, healing, cure, treat, anxiety, depression, sleep, pain, medical, guaranteed, luck, wealth, money, manifest money, protect you from.
 Stone name / size exactly as in the product page; no origin country unless the page states it; treated stones named honestly (aqua aura = coated quartz); no made-up statistics.
+
+
+## Posting slots (Taipei, from 2026-10-12)
+| Channel | Slot A | Slot B |
+|---|---|---|
+| TikTok | 08:15 | **10:30** (Sundays: 21:15) |
+| Instagram Reel | 08:15 | **10:30** (Thursdays: 21:15) |
+| Instagram carousel | 3 h after the item's IG Reel (legacy 00:15 / 11:15); if it lands within 1 h of another IG post, shift it +1 h |
+| X, Threads, YouTube, Pinterest | 08:15 | 21:15 (unchanged; Pinterest max 5/day) |
+Weekday is the Taipei calendar date. The same item keeps its slot-B *date*: only the time differs per channel.
